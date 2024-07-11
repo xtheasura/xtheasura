@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tarunchauhan9066@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/14t9KL648chr9zOZiT_pxVxbVvIZL5cry/view?usp=drivesdk](https://drive.google.com/file/d/14t9KL648chr9zOZiT_pxVxbVvIZL5cry/view?usp=drivesdk)
+- 📄 Know about me [)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
