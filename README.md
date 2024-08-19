@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **Advanced Python, FastAPI, Flask, Django.**
 
-- 💬 Ask me about **Python Backend Web Development**
+- 💬 Ask me about **Python Backend Development**
 
 - 📫 How to reach me **tarunchauhan9066@gmail.com**
 
