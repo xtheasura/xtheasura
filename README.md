@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate backend python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtheasura&label=Profile%20views&color=0e75b6&style=flat" alt="xtheasura" /> </p>
 
-- 👨‍💻 I’m currently learning **Advanced Java, DSA & Springboot.**
+- 👨‍💻 I’m currently learning **Advanced Python, FastAPI, Flask, Django.**
 
-- 💬 Ask me about **Java,Web Development, Python**
+- 💬 Ask me about **Python Backend Web Development**
 
 - 📫 How to reach me **tarunchauhan9066@gmail.com**
 
